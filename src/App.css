@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d5d5e6;
+}
+
+.pages {
+  color: #316685;
+  text-align:left;
+  font-size: 20px;
+  margin-top: 2%;
+}
+img {
+  border: 1px solid #ddd;
+  opacity:10;
+  border-radius: 4px;
+  padding: 5px;
+  position: left top;
+  width: 100%;
+}
